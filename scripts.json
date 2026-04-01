@@ -1,1 +1,6 @@
-
+[
+  {
+    "title": "Script Teste",
+    "code": "print('Hello World')"
+  }
+]
